@@ -1,8 +1,15 @@
 # Referências
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+Índice de abandono no Brasil 
+
+Reflexão sobre abrigos 
+
+Abandono de animais 
+
+Ferramentas de Wireframes 
+
+Aplicativo Marvel 
+
+[Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
+
+[Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
